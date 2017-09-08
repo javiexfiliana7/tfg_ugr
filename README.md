@@ -1,5 +1,5 @@
 ## **Trabajo Fin de Grado Ingeniería Informática (UGR)** ##
-**Breve Descripción/Introducción:**
+**Breve Descripción/Introducción:**  
 El proyecto fue propuesto desde el primer momento como una recopila-
 ción bibliográfica de herramientas para la docencia universitaria en Inteligen-
 cia Artificial. 
@@ -17,7 +17,7 @@ programa encuentra las páginas relacionadas con la IA y las cataloga según
 la palabra clave que ha encontrado en ella.
 El resultado se muestra en una página web sencilla que utiliza php.
 
-##Manual de Uso
+**Manual de Uso**  
 Para compilarlo debemos ejecutar dentro del directorio del
 programa el siguiente comando:
 
