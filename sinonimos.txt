@@ -1,0 +1,8 @@
+artificial ->artificial intelligence
+belief networks ->bayesian networks
+decision networks ->bayesian networks
+neural network ->artificial neural networks
+computational intelligence ->artificial intelligence
+search ->search algorithms
+graph searching ->search algorithms
+algorithm ->search algorithms
